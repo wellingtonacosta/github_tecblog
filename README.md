@@ -1,2 +1,2 @@
 # projeto-tecblog
- Blog de tecnologia utiizando HTML5 & CSS3 Intermediário
+Technology Blog Using HTML5 and CSS3 Intermediate
